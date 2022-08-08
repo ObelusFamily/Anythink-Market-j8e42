@@ -13,4 +13,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 1. Clone this repository to your local machine.
 2. In your terminal, navigate to the root of the repository, and run `docker-compose up`.
 3. After running this command, you should be able to access the app at `http://localhost:3000/api/ping`.
-   4. To ensure the backend is working, create a new user and log in. `http://localhost:3001/register`
+   1. To ensure the backend is working, create a new user and log in. `http://localhost:3001/register`
